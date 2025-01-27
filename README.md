@@ -6,6 +6,7 @@
 <h5 align="center" style="color: #03ad03; text-shadow: 0px 0px 1px #03ad03, 0px 0px 2px #03ad03;">😎 Skills:</h5>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   &nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
 <!--
 **Boris2024042/Boris2024042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
