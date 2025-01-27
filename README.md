@@ -3,6 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Borya....;Nice+to+meet+you!&center=true&size=30&color=03ad03">
 </a>
 </h1>
+<h5 align="center" style="color: #03ad03; text-shadow: 0px 0px 1px #03ad03, 0px 0px 2px #03ad03;">😎 Skills:</h5>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  &nbsp;&nbsp;
 
 <!--
 **Boris2024042/Boris2024042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
