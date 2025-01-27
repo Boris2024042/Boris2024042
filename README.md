@@ -4,7 +4,7 @@
 </a>
 </h1>
 <h5 align="center" style="color: #03ad03; text-shadow: 0px 0px 1px #03ad03, 0px 0px 2px #03ad03;">😎 Skills:</h5>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://ru.wikipedia.org/wiki/JavaScript)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   &nbsp;&nbsp;
 
 <!--
