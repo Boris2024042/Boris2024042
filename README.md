@@ -1,5 +1,8 @@
-## Hi there 👋
-## My  name is Boris
+## <h1 align="center" style="font-weight: bold;">
+##  <a href="https://git.io/typing-svg">
+##    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;.....+This+is+Borya....;Nice+to+meet+you!&center=true&size=30&color=03ad03">
+##  </a>
+##</h1>
 
 <!--
 **Boris2024042/Boris2024042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
