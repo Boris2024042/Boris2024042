@@ -9,6 +9,8 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   &nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 <!--
 **Boris2024042/Boris2024042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
